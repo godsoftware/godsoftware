@@ -80,19 +80,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| 🔧 Project | 📄 Description |
-|-----------|----------------|
-| 🎮 **Kurtlar Sofrası** | Firebase tabanlı mobil oyun projesi (2022) |
-| 👁️ **YOLOv8 Detection System** | İnsan ve araç tespiti için gerçek zamanlı AI modeli (2023) |
-| 🧠 **LLM Intelligent Agent** | Görev otomasyonu ve kullanıcı etkileşimi için akıllı ajan (2024) |
-| 🌱 **Soil Classification System** | Tarım için derin öğrenme tabanlı toprak sınıflandırma (2024) |
-| 🏥 **AI in Healthcare** | Beyin MR ve BT görüntülerinden inme tespiti için CNN modeli (2025) |
-| 🤖 **CNN Object Detection** | TensorFlow ile yüksek hassasiyetli nesne tanıma sistemi (2023) |
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
