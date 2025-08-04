@@ -3,7 +3,7 @@
 <h3 align="center">Computer Engineering Student & AI Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F72070&center=true&vCenter=true&width=1000&lines=🎓+Computer+Engineering+Student+%7C+AI+%26+Computer+Vision;🤖+Deep+Learning+%7C+YOLO+%7C+CNN+%7C+LLM+Agents;🏥+AI+in+Healthcare+%7C+Medical+Imaging+%7C+Game+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F72070&center=true&vCenter=true&width=1000&lines=🎓+Computer+Engineering+Student+%7C+AI+%26+Computer+Vision;🤖+Deep+Learning+%7C+YOLO+%7C+CNN+%7C+LLM+Agents;🏥+AI+in+Healthcare+%7C+Medical+Imaging+%7C" alt="Typing SVG" />
 </p>
 
 <p align="center">
