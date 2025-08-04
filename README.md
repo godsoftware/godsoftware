@@ -109,16 +109,11 @@
   <a href="tel:+905535421242">
     <img src="https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/resul-ozkale" target="_blank">
+  <a href="[https://linkedin.com/in/resul-ozkale](https://www.linkedin.com/in/resul-%C3%B6zkale/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  📍 <strong>Location:</strong> AGU Student Village, Kayseri, Turkey<br>
-  🎓 <strong>University:</strong> Abdullah Gül University - Computer Engineering<br>
-  🗣️ <strong>Languages:</strong> Turkish (Native), English (B2-C1)
-</p>
 
 ---
 
