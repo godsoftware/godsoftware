@@ -47,7 +47,6 @@
   - 🏥 **Tıbbi AI** (Beyin MR/BT analizi, sağlık uygulamaları)
 
 - 💼 **İş Deneyimi**: Savunma sanayii, bilgisayarlı görü, IT projeleri
-- 🏅 **Sertifikalar**: IoT Temelleri, Linux Sistemleri
 - 🎯 Şu an: İnme tespiti için sağlık AI'ı ve LLM tabanlı akıllı ajanlar
 
 </td>
@@ -96,7 +95,6 @@
 - 👁️ **Computer Vision** & Image Processing  
 - 🧠 **LLM Agents** & Intelligent Systems
 - 🏥 **Medical AI** & Healthcare Applications
-- 🎮 **Game Development** & Interactive Media
 
 ---
 
@@ -128,7 +126,7 @@ I'm a Computer Engineering student at Abdullah Gül University (2020-2025)
 🧠 LLM Agents (Intelligent Task Automation, NLP)
 👁️ Computer Vision (YOLO, Object Detection, Image Processing)
 🏥 Medical AI (Brain MRI/CT Analysis, Healthcare Applications)
-🎮 Game Development (Mobile Games, Firebase Integration)
+
 
 
 💼 Work Experience: Defence Industries, Computer Vision, IT Projects
@@ -176,44 +174,6 @@ Show Image
 Show Image
 Show Image
 
-🚀 Featured Projects
-🔧 Project📄 Description🎮 Kurtlar SofrasıFirebase tabanlı mobil oyun projesi (2022)👁️ YOLOv8 Detection Systemİnsan ve araç tespiti için gerçek zamanlı AI modeli (2023)🧠 LLM Intelligent AgentGörev otomasyonu ve kullanıcı etkileşimi için akıllı ajan (2024)🌱 Soil Classification SystemTarım için derin öğrenme tabanlı toprak sınıflandırma (2024)🏥 AI in HealthcareBeyin MR ve BT görüntülerinden inme tespiti için CNN modeli (2025)🤖 CNN Object DetectionTensorFlow ile yüksek hassasiyetli nesne tanıma sistemi (2023)
-
-💼 Work Experience
-🛡️ Defence Industries Experience
-
-Savhatek Defence Industries (2023-2024)
-
-AI ve derin öğrenme tabanlı bilgisayarlı görü uygulamaları
-Endüstriyel sınıflandırma ve sayma sistemleri
-
-
-
-👁️ Computer Vision Specialist
-
-Gitek Visio (2023-2024)
-
-YOLO kullanarak görüntü işleme ve derin öğrenme modelleri
-Donanım ve yazılım araçları entegrasyonu
-
-
-
-💻 IT Team Member
-
-Kumtel (2025)
-
-IT ekibi projelerine katılım
-Yazılım geliştirme çabalarına katkı
-
-
-
-
-🏅 Certifications & Awards
-
-🏆 YEA - Certificate of Exclusive
-🌐 IoT Fundamentals: Big Data & Analytics
-🐧 Cisco NDG Linux Unhatched
-
 
 📈 GitHub Stats
 <p align="center">
@@ -228,7 +188,6 @@ Yazılım geliştirme çabalarına katkı
 👁️ Computer Vision & Image Processing
 🧠 LLM Agents & Intelligent Systems
 🏥 Medical AI & Healthcare Applications
-🎮 Game Development & Interactive Media
 
 
 📫 Contact Me
