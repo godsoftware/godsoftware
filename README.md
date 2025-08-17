@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Engineering%20Student-1976D2?style=for-the-badge&logo=graduation-cap&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%20%26%20Computer%20Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Medical%20AI%20Developer-00C851?style=for-the-badge&logo=medical-cross&logoColor=white" />
+
 </p>
 
 ---
