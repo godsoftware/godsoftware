@@ -68,7 +68,6 @@
 
 ### 🏥 Medical AI & Imaging
 ![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-00C851?style=for-the-badge&logo=medical-cross&logoColor=white)
-![Brain MRI Analysis](https://img.shields.io/badge/Brain%20MRI-4ECDC4?style=for-the-badge&logo=brain&logoColor=white)
 
 ### 💻 Programming & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
