@@ -27,7 +27,7 @@
   - 🤖 **AI & Machine Learning** (Deep Learning, CNN, TensorFlow)
   - 🧠 **LLM Agents** (Intelligent Task Automation, NLP)
   - 👁️ **Computer Vision** (YOLO, Object Detection, Image Processing)
-  - 🏥 **Medical AI** (Brain MRI/CT Analysis, Healthcare Applications)
+  - 🏥 **Medical AI** (Healthcare Applications)
 
 - 💼 **Work Experience**: Defence Industries, Computer Vision, IT Projects
 - 🎯 Currently working on: AI in Healthcare for stroke detection and LLM-based intelligent agents
